@@ -12,7 +12,7 @@ ul {
     height: 50px;
     font-style: 25px;
     padding: 0;
-    margin: 0 580px;
+    margin: 0 500px;
 }
 
 a {
@@ -35,7 +35,7 @@ h1, p {
 h1 {
     font-style: italic;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 10px;
 }
 
 p {
@@ -43,4 +43,9 @@ p {
     text-indent: 20px;
     text-align: center;
     
+}
+
+img {
+    display: block;
+    margin: 0 auto; 
 }
