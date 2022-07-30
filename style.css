@@ -39,5 +39,8 @@ h1 {
 }
 
 p {
+    display: flex;
     text-indent: 20px;
+    text-align: center;
+    
 }
