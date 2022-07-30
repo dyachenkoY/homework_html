@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2b2a2a;
+}
+
+ul {
+    background-color: #f22613;
+    list-style: none;
+    height: 50px;
+    font-style: 25px;
+    padding: 0;
+    margin: 0 580px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 50px;
+    padding: 0 25px;
+    border-right: 2px solid black;
+
+}
+
+li {
+    float: left;
+}
+
+h1, p {
+    color: white;
+}
+
+h1 {
+    font-style: italic;
+    text-align: center;
+    padding-top: 100px;
+}
+
+p {
+    text-indent: 20px;
+}
